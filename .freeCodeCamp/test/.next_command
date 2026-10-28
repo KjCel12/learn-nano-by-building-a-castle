@@ -76,3 +76,6 @@ nano castle.sh
 bash castle.sh
 nano castle.sh
 bash castle.sh
+git init
+git config --global core.longpaths true
+git add .
